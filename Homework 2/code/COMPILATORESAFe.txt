@@ -1,0 +1,1 @@
+javadoc -public -splitindex -tag safe.precondition:a:"Pre-Condition:" -tag safe.postcondition:a:"Post-Condition:" -tag safe.testcases:a:"Test Cases:" -tag safe.summary:a:"Summary:" -tag safe.suitedesign:a:"Suite Design:" -d SAFe/SetAdapter TestSetAdapter.java
